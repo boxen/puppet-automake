@@ -2,7 +2,7 @@
 
 Installs automake.
 
-[![Build Status](https://travis-ci.org/tommetge/puppet-automake.png?branch=master)](https://travis-ci.org/tommetge/puppet-automake)
+[![Build Status](https://travis-ci.org/boxen/puppet-automake.png?branch=master)](https://travis-ci.org/boxen/puppet-automake)
 
 ## Usage
 
